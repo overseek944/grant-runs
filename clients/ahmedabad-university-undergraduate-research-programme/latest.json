@@ -1,0 +1,147 @@
+{
+  "client": {
+    "name": "Ahmedabad University – Undergraduate Research Programme",
+    "institution_type": "university",
+    "research_areas": [
+      "interdisciplinary science and engineering",
+      "public health and epidemiology",
+      "earth and environmental sciences",
+      "biological and life sciences",
+      "computer science and artificial intelligence",
+      "social sciences and development",
+      "physics and mathematical sciences"
+    ],
+    "focus_geographies": [
+      "India",
+      "Gujarat",
+      "South Asia"
+    ],
+    "keywords": [
+      "undergraduate research",
+      "interdisciplinary research",
+      "environmental monitoring",
+      "public health",
+      "computational biology",
+      "AI and machine learning",
+      "earth sciences",
+      "geosciences",
+      "conservation science",
+      "India"
+    ]
+  },
+  "run": {
+    "generated_at": "2026-05-02T13:34:42.259746+00:00",
+    "sources_searched": [
+      "india_grants"
+    ],
+    "total_found": 3,
+    "high_priority": 1,
+    "worth_reviewing": 1
+  },
+  "institution_profile": {
+    "display_name": "Ahmedabad University",
+    "works_count": 3815,
+    "cited_by_count": 68816,
+    "concepts": [
+      "Textile materials and evaluations",
+      "Nanoparticles: synthesis and applications",
+      "Cosmology and Gravitation Theories",
+      "Advanced Nanomaterials in Catalysis",
+      "Black Holes and Theoretical Physics",
+      "Advanced biosensing and bioanalysis techniques",
+      "Cognitive Radio Networks and Spectrum Sensing",
+      "Nanocluster Synthesis and Applications"
+    ],
+    "past_funders": [
+      "Department of Science and Technology, Ministry of Science and Technology, India",
+      "Science and Engineering Research Board",
+      "Shroff S.R. Rotary Institute of Chemical Technology",
+      "National Natural Science Foundation of China",
+      "VIT University",
+      "Australian Research Council",
+      "European Commission",
+      "Ahmedabad University",
+      "National Science Foundation",
+      "Kavli Foundation"
+    ],
+    "top_researchers": [
+      {
+        "name": "Vyom Sharma",
+        "concept": "Nanoparticles: synthesis and applications"
+      },
+      {
+        "name": "Sunny Vagnozzi",
+        "concept": "Cosmology and Gravitation Theories"
+      },
+      {
+        "name": "Zuzana Magdolénová",
+        "concept": "Nanoparticles: synthesis and applications"
+      },
+      {
+        "name": "Felix Creutzig",
+        "concept": "Energy, Environment, and Transportation Policies"
+      },
+      {
+        "name": "Nandita Dasgupta",
+        "concept": "Nanoparticles: synthesis and applications"
+      },
+      {
+        "name": "N.V. Srikanth Vallabani",
+        "concept": "Advanced Nanomaterials in Catalysis"
+      }
+    ]
+  },
+  "grants": [
+    {
+      "id": "csir-nih",
+      "title": "CSIR Network Projects (NIH-CSIR Bilateral Programme)",
+      "agency": "CSIR (Council of Scientific and Industrial Research)",
+      "description": "Collaborative research between Indian CSIR labs and NIH/US institutions. Focus areas: infectious disease, genomics, computational biology.",
+      "deadline": "Rolling / check website",
+      "funding_amount": "Varies by project ($100,000–$500,000 US component)",
+      "eligibility": "CSIR laboratories; US NIH collaboration required",
+      "url": "https://www.csir.res.in/funding-opportunities",
+      "source": "csir",
+      "relevance_score": 0.78,
+      "category": "health",
+      "days_until_deadline": null,
+      "brief": "FUNDER PRIORITIES: CSIR's bilateral programme with NIH funds hypothesis-driven collaborative science where the Indian lab contributes domain depth (genomics, infectious disease epidemiology, computational biology) and the US partner brings clinical cohorts or specialised platforms. Awards historically favour TB, antimicrobial resistance, vector-borne disease, cancer genomics and increasingly AI-enabled diagnostics. CSIR rewards demonstrable translational pathways and joint publications, not exploratory work. CLIENT FIT: Ahmedabad University's documented strengths in advanced biosensing and bioanalysis, nanoparticle synthesis, and computational/AI capability map directly onto the diagnostics-and-genomics sweet spot of this scheme. The institution's existing US collaborations provide a credible NIH-side partner, and prior DST/SERB funding signals reviewer-recognised infrastructure. The interdisciplinary undergraduate research model is a differentiator if framed as a training pipeline feeding the joint project. KEY REQUIREMENTS: (1) A confirmed NIH-funded or NIH-eligible US PI as co-investigator with a letter of intent; (2) the Indian lead must be at a CSIR laboratory or partnered through one — Ahmedabad University will need a CSIR co-PI (CSIR-CDRI, CSIR-IGIB, CSIR-CCMB are natural fits); (3) demonstrable IRB/biosafety readiness and data-sharing plan compliant with NIH policy. STRATEGIC NOTE: Do not apply solo — route through a CSIR sub-awardee structure with a CSIR-IGIB or CSIR-CCMB collaborator as nominal lead while Ahmedabad University holds a defined biosensor or ML analytics work package. Preliminary data needed: a pilot dataset (≥50 samples) plus a working assay or validated model. Begin partner conversations now; calls open on a rolling basis but assembly of a tri-party MoU realistically takes 4–6 months.",
+      "funder_intel": "CrossRef Funding Signal — 'undergraduate research interdisciplinary research+India' papers recently funded by: National Natural Science Foundation of China (6), National Key Research and Development Program of China (5), China Postdoctoral Science Foundation (2), National Key Research and Development Program of China Stem Cell and Translational Research (1), Ministry of Education of the People's Republic of China (1), Humanities and Social Science Fund of Ministry of Education of the People's Republic of China (1). These are active funders in this space.",
+      "strategy_memo": "THE OPPORTUNITY\nThe NIH-CSIR Bilateral Programme funds exactly the kind of US-India collaborative biomedical work where Ahmedabad University already has structural advantages: established UK/US institutional partnerships, prior DST/SERB/DBT track record, and demonstrated strength in biosensing and nanoparticle applications that map directly onto the funder's infectious disease and genomics priorities. With rolling deadlines and a $100K–$500K US-side envelope, this is a high-leverage target if you can secure a CSIR-lab anchor — and that single dependency is the entire game.\n\nYOUR STRONGEST ANGLE\nLead with biosensing-for-infectious-disease as the headline narrative, not undergraduate research. The funder cares about translational diagnostics and computational genomics in resource-relevant settings; your verified strengths in advanced biosensing/bioanalysis and nanoparticle synthesis (Vyom Sharma, Zuzana Magdolénová) are a direct fit for point-of-care pathogen detection or AMR surveillance. Frame Ahmedabad University as the South Asia field/data partner contributing Gujarat-based epidemiological cohorts and ML-driven analysis, while the CSIR lab provides the regulated biomedical pipeline and the NIH collaborator provides the genomics or clinical validation arm. The undergraduate programme becomes a workforce-pipeline asset mentioned briefly — never the lead.\n\nTHREE CRITICAL REQUIREMENTS\n1. A CSIR-lab principal partner. You are not directly eligible — CSIR-CDRI (Lucknow), CSIR-IGIB (Delhi), or CSIR-CCMB (Hyderabad) must be the anchor PI. Without a signed MoU or letter of intent from one of these, the proposal cannot be submitted.\n2. A named NIH-side collaborator with active R-series funding or institutional standing, ideally at NIAID, NHGRI, or Fogarty. A vague \"US partner interested\" line will sink the application; you need a co-PI letter on letterhead.\n3. Preliminary biosensing or genomics data tied to an infectious disease target (TB, dengue, AMR, or vector-borne pathogens relevant to Gujarat). Pull from Sharma/Magdolénová's recent outputs and package a 2-page pilot data appendix.\n\nNEXT 30 DAYS\n1. Vyom Sharma to email three CSIR-IGIB and CSIR-CDRI division heads this week proposing a co-PI structure; cc the Dean of Research.\n2. Identify the NIH partner via NIH RePORTER — filter for India-collaborative R01s in infectious disease, shortlist five, and have the Dean's office send warm intros through existing UK/US contacts.\n3. Commission a one-page concept note (problem, consortium, deliverables, budget split) and circulate it to CSIR and NIH prospects as the conversation-opener — do not wait for a full proposal draft."
+    },
+    {
+      "id": "birac-952034",
+      "title": "Indo-Australian Biotechnology Fund",
+      "agency": "BIRAC (Biotechnology Industry Research Assistance Council)",
+      "description": "Indo-Australian Biotechnology Fund",
+      "deadline": null,
+      "funding_amount": null,
+      "eligibility": "Indian institutions",
+      "url": "https://birac.nic.in/cfp.php/./desc_new.php?id=862",
+      "source": "birac",
+      "relevance_score": 0.62,
+      "category": "health",
+      "days_until_deadline": null,
+      "brief": "FUNDER PRIORITIES: BIRAC's Indo-Australian Biotechnology Fund, run jointly with Australia's Department of Industry, Science and Resources, funds applied biotech with translation potential — agri-biotech, medical devices, vaccines, diagnostics, industrial biotech and increasingly digital health. Awards target consortia with at least one Indian academic/SME and one Australian counterpart, and review weighs IP strategy, commercialisation roadmap and SDG alignment as heavily as scientific novelty. CLIENT FIT: Ahmedabad University's advanced biosensing and bioanalysis track record, plus nanomaterials-in-catalysis and nanoparticle synthesis expertise, fit BIRAC's diagnostics and industrial-biotech windows well. The CrossRef signal showing Australian Research Council activity in this space suggests Australian academic partners are actively publishing on adjacent themes. The undergraduate research programme is not a strength here — BIRAC reviewers expect senior PI continuity and post-doc capacity, so the application must be led by tenured faculty with prior SERB/DBT awards. KEY REQUIREMENTS: (1) A binding Australian academic or industry partner with matched in-kind or cash contribution; (2) eligibility as an Indian academic or non-profit research institution — Ahmedabad University qualifies, but a DBT-recognised PI strengthens the file; (3) a clear IP-sharing and commercialisation plan, typically including a startup or industry off-taker. STRATEGIC NOTE: Apply with an Australian partner — solo applications are non-starters. Use Group of Eight universities (Monash, UNSW, Melbourne) with biosensor or epidemiology programmes as first targets. Preliminary data should include a working prototype or validated proof-of-concept, plus a draft IP term sheet. Lead time: 6–9 months for partner negotiation; monitor BIRAC's website for the next bilateral call window.",
+      "funder_intel": "CrossRef Funding Signal — 'undergraduate research interdisciplinary research+India' papers recently funded by: National Natural Science Foundation of China (5), Australian Research Council (4), National Key Research and Development Program of China (3), China Postdoctoral Science Foundation (2), National Key Research and Development Program of China Stem Cell and Translational Research (1), Ministry of Education of the People's Republic of China (1). These are active funders in this space.",
+      "strategy_memo": "THE OPPORTUNITY\nThe Indo-Australian Biotechnology Fund through BIRAC is a high-leverage opening for Ahmedabad University because it unlocks bilateral biotech funding that few Indian private universities pursue competitively, and your existing UK/US collaboration track record proves you can run international partnerships. With nanoparticle biosensing and biological sciences both in your verified strength portfolio, you can credibly enter a BIRAC pipeline that historically rewards translational, industry-aligned biotech rather than pure curiosity-driven work. Australian Research Council appearing prominently in the CrossRef signal confirms Australian co-funding is actively flowing into this space right now.\n\nYOUR STRONGEST ANGLE\nLead with advanced biosensing and nanoparticle-enabled diagnostics applied to public health and epidemiology challenges relevant to both India and Australia — vector-borne disease surveillance, antimicrobial resistance monitoring, or point-of-care diagnostics for rural and remote populations. BIRAC cares about translation, IP, and industry pull, not basic science, so frame Vyom Sharma's nanoparticle synthesis work and your biosensing capability as a deployable diagnostic platform with a clear Australian clinical or industrial validation partner. The Indo-Australian framing demands a problem that genuinely matters in both countries — AMR, zoonotic disease, or environmental health surveillance check that box and map cleanly onto your earth sciences and epidemiology keywords.\n\nTHREE CRITICAL REQUIREMENTS\nFirst, you must secure a named Australian co-investigator at a recognised university or CSIRO before submission — BIRAC bilateral calls are rejected without a binding Australian counterpart and matched Australian funding letter. Second, prepare preliminary biosensor or nanoparticle diagnostic data with at least one peer-reviewed output and a freedom-to-operate or provisional IP position, because BIRAC scores translational readiness and IP clarity heavily. Third, confirm eligibility in writing: BIRAC typically funds Indian companies or DSIR-recognised SIROs, so Ahmedabad University must either hold SIRO recognition or partner with an Indian biotech SME as the lead applicant with the university as academic partner.\n\nNEXT 30 DAYS\nOne, have the Dean of Research email Austrade's Bengaluru office and the Australian High Commission's Education Counsellor to request a list of active Australian biotech partners seeking Indian counterparts. Two, task Vyom Sharma with drafting a two-page concept note on a nanoparticle biosensing diagnostic and circulate it to existing UK collaborators for warm Australian introductions via Universities Australia. Three, verify SIRO status with DSIR on dsir.gov.in and, if absent, open conversations with a Gujarat-based biotech SME such as those in Savli GIDC to serve as industry lead."
+    },
+    {
+      "id": "birac-385943",
+      "title": "Product Commercialization Program Fund",
+      "agency": "BIRAC (Biotechnology Industry Research Assistance Council)",
+      "description": "Product Commercialization Program Fund",
+      "deadline": null,
+      "funding_amount": null,
+      "eligibility": "Indian institutions",
+      "url": "https://birac.nic.in/cfp.php/#",
+      "source": "birac",
+      "relevance_score": 0.32,
+      "category": "health",
+      "days_until_deadline": null,
+      "brief": "FUNDER PRIORITIES: BIRAC's Product Commercialization Program funds the final mile from validated prototype to market — regulatory filings, scale-up manufacturing, clinical validation, market launch support. Awardees are overwhelmingly biotech startups, often DBT-BIRAC incubator graduates, with a CDSCO/USFDA pathway in view and an LOI from a customer or distributor. Academic institutions appear only when spun out into a registered company or co-applying with a DPIIT-recognised startup. CLIENT FIT: Ahmedabad University's biosensing and nanomaterials portfolios could in principle generate a commercialisable diagnostic or sensor, but the institution does not currently appear to operate a registered spinout aligned with this scheme. The undergraduate research programme model and faculty-led project structure are misaligned with the operational maturity (GMP, QMS, regulatory dossiers) expected at submission. Past funders are research-grant agencies, not commercialisation arms — there is no demonstrated translation track record on file. KEY REQUIREMENTS: (1) Applicant must be a registered Indian company, typically a DPIIT-recognised startup, not a university directly; (2) a TRL 6+ product with completed proof-of-concept and pilot validation data; (3) a credible regulatory and market-entry plan, with matching/co-funding evidence. STRATEGIC NOTE: Do not apply directly. The realistic path is to first incubate a faculty-led spinout via a BIRAC BIG or SEED grant, then graduate to PCP after 18–24 months. Alternatively, partner with an existing Gujarat-based biotech startup (Zydus, Intas's incubatees) where Ahmedabad University holds the underlying IP and licenses it. Treat this as a 2027–2028 horizon, not a near-term submission.",
+      "funder_intel": "CrossRef Funding Signal — 'undergraduate research interdisciplinary research+India' papers recently funded by: National Natural Science Foundation of China (5), Australian Research Council (4), National Key Research and Development Program of China (3), China Postdoctoral Science Foundation (2), National Key Research and Development Program of China Stem Cell and Translational Research (1), Ministry of Education of the People's Republic of China (1). These are active funders in this space.",
+      "strategy_memo": "THE OPPORTUNITY\nBIRAC's Product Commercialization Program is the bridge between lab-stage biotech and market-ready product, and Ahmedabad University has exactly the kind of asset BIRAC funds: a deep nanoparticle and biosensing portfolio with translational potential. With 3,815 publications and prior DST/SERB/DBT credibility, you are already inside BIRAC's eligibility universe — what is missing is a commercialization narrative, not scientific weight. Move now while your nanomaterials and biosensing groups have publishable preliminary data that can anchor a Technology Readiness Level (TRL) jump from 4 to 7.\n\nYOUR STRONGEST ANGLE\nLead with biosensing-for-public-health, not nanomaterials in the abstract. BIRAC funds products, and your \"advanced biosensing and bioanalysis\" strength combined with epidemiology and public health keywords gives you a credible India-relevant diagnostic or environmental-monitoring device story — point-of-care assays, water/air contaminant sensors, or low-cost screening tools for Gujarat populations. Frame Vyom Sharma's nanoparticle synthesis work as the upstream platform feeding a downstream device with a defined end-user, unit economics, and a path to a domestic manufacturing partner. BIRAC reviewers reward \"Indian product, Indian patient, Indian price point\" — write to that lens.\n\nTHREE CRITICAL REQUIREMENTS\n1. Industry co-applicant or LOI. BIRAC commercialization tracks essentially require a company partner (MSME, startup, or licensee). Without a named industry collaborator with cost-sharing or offtake commitment, the application is dead on arrival.\n2. IP position and freedom-to-operate. You need at least a filed Indian provisional patent on the lead technology before submission, plus a one-page FTO summary. BIRAC will not fund commercialization of unprotected IP.\n3. Eligibility re-confirmation as a private non-profit. BIRAC schemes vary on whether non-profit universities apply directly or must route through a Section 8 / incubator vehicle. Confirm the exact instrument before you draft.\n\nNEXT 30 DAYS\n1. Have the Dean of Research email Dr. Jitendra Kumar (BIRAC Managing Director's office) or the relevant Program Manager via birac.nic.in to confirm scheme variant, current call status, and eligibility pathway for a private non-profit university.\n2. Convene Vyom Sharma and the biosensing faculty for a 90-minute scoping session to pick ONE lead product candidate with the clearest TRL-4+ data and India market need.\n3. Engage Ahmedabad's CIIE.CO or iCreate incubator to identify a startup co-applicant and begin a Term Sheet conversation this month — partner search is the longest-lead item."
+    }
+  ]
+}
