@@ -1,0 +1,85 @@
+{
+  "client": {
+    "name": "Charotar University of Science and Technology (CHARUSAT)",
+    "institution_type": "university",
+    "research_areas": [
+      "engineering and technology",
+      "pharmaceutical sciences and drug discovery",
+      "computer science and applications",
+      "biomedical and healthcare sciences",
+      "applied sciences and materials",
+      "space research and remote sensing",
+      "management and social sciences"
+    ],
+    "focus_geographies": [
+      "India",
+      "Gujarat",
+      "South Asia"
+    ],
+    "keywords": [
+      "pharmaceutical research",
+      "drug discovery",
+      "biomedical engineering",
+      "computer applications",
+      "materials science",
+      "space technology",
+      "remote sensing",
+      "healthcare innovation",
+      "applied research",
+      "India"
+    ]
+  },
+  "run": {
+    "generated_at": "2026-05-02T19:01:19.125908+00:00",
+    "sources_searched": [
+      "india_grants"
+    ],
+    "total_found": 2,
+    "high_priority": 2,
+    "worth_reviewing": 0
+  },
+  "institution_profile": {
+    "display_name": "Charotar University of Science and Technology (CHARUSAT)",
+    "works_count": null,
+    "cited_by_count": null,
+    "concepts": [],
+    "past_funders": [],
+    "top_researchers": []
+  },
+  "grants": [
+    {
+      "id": "birac-216302",
+      "title": "Product Commercialization Program Fund",
+      "agency": "BIRAC (Biotechnology Industry Research Assistance Council)",
+      "description": "Product Commercialization Program Fund",
+      "deadline": null,
+      "funding_amount": null,
+      "eligibility": "Indian institutions",
+      "url": "https://birac.nic.in/cfp.php/#",
+      "source": "birac",
+      "relevance_score": 0.82,
+      "category": "health",
+      "days_until_deadline": null,
+      "brief": "FUNDER PRIORITIES: BIRAC's Product Commercialization Program (PACE-style instruments) funds late-stage biotech ventures crossing the validation-to-market chasm — specifically scale-up manufacturing, GMP/GLP validation, regulatory pathway support, and pilot deployments. BIRAC favors deployable medical devices, diagnostics, biotherapeutics, and platform technologies with demonstrable IP, prior proof-of-concept (typically BIG/SBIRI graduates), and a credible commercialization partner. Awards historically range INR 1–5 crore with milestone-linked disbursements and equity/royalty payback components. CLIENT FIT: CHARUSAT is well positioned through its biomedical and pharmaceutical sciences portfolio and the KRADLE R&D Centre, which can host translational work in magnetic hyperthermia cancer therapy (ferrofluid-based ablation devices), drug discovery pipelines from the Ramanbhai Patel College of Pharmacy, and metal oxide gas sensor diagnostics. The bioremediation water purification work also has commercializable environmental-health angles. CrossRef signals confirm DST/CSIR/UGC actively fund Indian ferrofluid research, validating the technical lineage. KEY REQUIREMENTS: (1) An incorporated Indian biotech SME or DPIIT-recognized startup as the lead applicant — universities must partner with or spin out a company; (2) Prior validated proof-of-concept data, ideally from a BIRAC BIG/SBIRI/SITARE grant or equivalent; (3) A clear commercialization plan with regulatory roadmap (CDSCO/ICMR/USFDA as applicable) and matching/co-investment commitment. STRATEGIC NOTE: Apply via a CHARUSAT-incubated startup or industry partner, not as a standalone university PI. Secure a BIG (INR 50L) grant first to generate the bankable PoC data — then upgrade to PACE within 18–24 months. Target the magnetic hyperthermia device or a pharmacy-led molecule with strongest preclinical package; engage CDSCO regulatory consultants early.",
+      "funder_intel": "CrossRef Funding Signal — 'magnetic fluids ferrofluids+India' papers recently funded by: National Natural Science Foundation of China (8), Department of Science and Technology, Ministry of Science and Technology, India (6), Hebei Provincial Natural Science Foundation (3), Hebei Provincial Department of Science and Technology (2), Council of Scientific and Industrial Research, India (2), University Grants Commission (1). These are active funders in this space.",
+      "strategy_memo": "THE OPPORTUNITY\nBIRAC's Product Commercialization Program Fund is built to push lab-validated biotech assets across the \"valley of death\" into market-ready products, and CHARUSAT sits on at least three pipelines that fit this brief — magnetic hyperthermia agents for cancer therapy, biomimetic metalloenzyme catalysts, and bioremediation systems for water purification. With KRADLE infrastructure already in place and a pharmacy faculty under the same roof as engineering, you can credibly promise translation, not just publications. Move now: BIRAC is actively deploying Bio-NEST and Make-in-India aligned capital this cycle.\n\nYOUR STRONGEST ANGLE\nLead with magnetic hyperthermia cancer therapy as the flagship asset. It is the cleanest commercialization story in your portfolio: a clear unmet clinical need in India, a defensible IP position around your ferrofluid formulations, a regulatory pathway (CDSCO medical device + drug-device combination), and an addressable Indian oncology market that BIRAC explicitly wants to serve. BIRAC reviewers reward \"Indian solution for Indian patients\" framing — affordability versus imported alternatives, manufacturability in Gujarat, and a domestic supply chain. Position bioremediation and MOF supercapacitors as adjacent pipeline assets, not co-leads; one hero product wins PCPF.\n\nTHREE CRITICAL REQUIREMENTS\n1. Industry co-applicant or signed MoU. PCPF is structurally a public-private instrument — without a DSIR-recognised Indian biotech/medtech company as partner with cost-sharing commitment, the file is dead on arrival. Lock this before drafting.\n2. TRL 4+ preliminary data with regulatory framing. You need in-vivo efficacy data on a tumour model, biocompatibility per ISO 10993, and a stability/scale-up batch record from KRADLE. Reviewers reject \"interesting science\" without translational evidence.\n3. IP and freedom-to-operate documentation. File or update the Indian provisional patent on the ferrofluid composition before submission and include an FTO note. BIRAC will not fund commercialization of unprotected or contested IP.\n\nNEXT 30 DAYS\n1. Have the Registrar and KRADLE Director (Dr. K.C. Patel Centre) formally email BIRAC's PCPF Programme Officer through the BIRAC portal requesting a pre-submission consultation — this single step reshapes the proposal.\n2. Task the Pharmacy Dean to identify and sign an LoI with a Gujarat or Hyderabad-based medtech SME (start with Meril, Biocon, or Zydus Lifesciences) as industry partner.\n3. Engage CHARUSAT's IPR cell plus an external patent agent (LexOrbis or K&S Partners) to file the provisional patent and complete an FTO search within three weeks."
+    },
+    {
+      "id": "birac-205314",
+      "title": "Indo-Australian Biotechnology Fund",
+      "agency": "BIRAC (Biotechnology Industry Research Assistance Council)",
+      "description": "Indo-Australian Biotechnology Fund",
+      "deadline": null,
+      "funding_amount": null,
+      "eligibility": "Indian institutions",
+      "url": "https://birac.nic.in/cfp.php/./desc_new.php?id=862",
+      "source": "birac",
+      "relevance_score": 0.74,
+      "category": "health",
+      "days_until_deadline": null,
+      "brief": "FUNDER PRIORITIES: The Indo-Australian Biotechnology Fund (run jointly by BIRAC/DBT and Australia's DISR/CSIRO under the AISRF umbrella) funds bilateral applied biotech R&D with explicit translational and commercialization deliverables. Priority verticals include vaccines, medical devices, diagnostics, agri-biotech, industrial biotech, and increasingly bio-based materials and green chemistry. Awards typically run 2–3 years at INR 2–4 crore on the Indian side, with mirrored AUD funding for the Australian partner; matched industry co-funding strengthens proposals materially. CLIENT FIT: CHARUSAT's biomedical and pharmaceutical sciences, drug discovery pipeline, biomimetic metalloenzyme catalysis, and bioremediation water purification programs map cleanly onto Australian strengths in medicinal chemistry, environmental biotech, and CSIRO-led industrial bioprocessing. The magnetic hyperthermia therapy work overlaps with Monash/UQ nanomedicine groups, and KRADLE provides the institutional infrastructure required for bilateral consortia. CrossRef data showing DST and CSIR as active India funders in adjacent magnetic-materials work signals that the Indian science ministries already underwrite this researcher base. KEY REQUIREMENTS: (1) A confirmed Australian academic or industry co-PI with a matching proposal submitted to the Australian funding partner — single-country bids are ineligible; (2) Demonstrable prior collaboration or a signed MoU plus a clear IP-sharing and benefit-sharing framework; (3) An applied/translational milestone structure with at least one industry partner on either side. STRATEGIC NOTE: Do not apply solo — the bilateral mirror is non-negotiable. Use the next 3–6 months to secure an Australian co-PI (target ARC/NHMRC-funded labs at Monash, UQ, RMIT, or CSIRO) and lock in an Indian SME or pharma partner. Generate pilot data jointly before the call opens; bilateral calls reward consortia that can show prior exchange visits or co-authored preprints.",
+      "funder_intel": "CrossRef Funding Signal — 'magnetic fluids ferrofluids+India' papers recently funded by: National Natural Science Foundation of China (8), Department of Science and Technology, Ministry of Science and Technology, India (6), Hebei Provincial Natural Science Foundation (3), Hebei Provincial Department of Science and Technology (2), Council of Scientific and Industrial Research, India (2), University Grants Commission (1). These are active funders in this space.",
+      "strategy_memo": "THE OPPORTUNITY\nThe Indo-Australian Biotechnology Fund is a rare bilateral instrument that pairs BIRAC's translational mandate with Australian biotech depth, making it ideal for CHARUSAT's pharmacy, biomedical, and bioinorganic chemistry groups. With KRADLE infrastructure and an applied-research mandate, you can credibly pitch a co-developed therapeutic or diagnostic platform that neither country can build alone. Move now: BIRAC bilateral calls run thin and Indian institutions with a ready Australian co-PI win disproportionately.\n\nYOUR STRONGEST ANGLE\nLead with magnetic hyperthermia cancer therapy built on CHARUSAT's ferrofluid expertise, paired with an Australian clinical or nanomedicine partner for pre-clinical validation. BIRAC funds industry-translatable biotech, and a magnetic-nanoparticle therapeutic platform — moving from synthesis (CHARUSAT strength) to in-vivo efficacy and GMP-pathway scoping (Australian strength) — is a textbook bilateral story with a clear product end-point. Secondary angle: biomimetic metalloenzyme catalysis for drug discovery, which lets pharmacy faculty lead. Avoid pitching solar cells, batteries, or remote sensing here — they will read as off-mandate and weaken the file.\n\nTHREE CRITICAL REQUIREMENTS\n1. Named Australian co-PI with a signed LoI. BIRAC bilateral grants are rejected without a credible Australian institutional partner — target groups at UNSW, Monash, or CSIRO working on magnetic nanoparticle theranostics, and lock the LoI before drafting.\n2. Preliminary in-vitro data on cytotoxicity and SAR (specific absorption rate) of your ferrofluids in a tumor cell line, plus biocompatibility data. Reviewers will not fund synthesis-only proposals; you need at least one cell-line study and ideally an animal pilot.\n3. Industry/translation pathway documented. BIRAC weights commercialization heavily — attach an MoU or letter from an Indian biotech (Zydus, Intas, or a Gujarat MedTech SME) committing to co-development or licensing milestones, plus a regulatory roadmap (CDSCO + TGA).\n\nNEXT 30 DAYS\n1. Have the KRADLE Director email three Australian PIs directly this week — start with shortlisted nanomedicine groups at Monash Institute of Pharmaceutical Sciences and UNSW's ARC Centre for Nanomedicine. Aim for one signed LoI in 21 days.\n2. Task a pharmacy faculty member to run a 14-day MTT cytotoxicity assay on your existing Fe3O4 ferrofluid against MCF-7 or HeLa lines using in-house facilities; this becomes Figure 1 of the proposal.\n3. Open the BIRAC portal account under CHARUSAT's institutional login, pull the latest Indo-Australian call template, and book a 30-minute consult with BIRAC's Bilateral Programmes desk — they will tell you exactly what the current panel wants."
+    }
+  ]
+}
